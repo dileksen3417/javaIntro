@@ -1,0 +1,6 @@
+package com.company;
+
+public class Product implements IEntity {
+    int id;
+    String productName;
+}
